@@ -9,7 +9,7 @@ const config = JSON.parse(pm.collectionVariables.get('ct_config'));
 const yaml =  pm.collectionVariables.get('CodeLibrary_js_yaml');
 (new Function(yaml))();
 
-
+console.log("Hi Aamir!! *********"); 
 
 var api = 'Payment Initiation'; //need to make this dynamic
 var path = pm.collectionVariables.get("ct_runtime_schemaPath");  //need to make this dynamic
