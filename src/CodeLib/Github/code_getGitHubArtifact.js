@@ -6,7 +6,7 @@
  * NOTE: Pushing this code to the SCM WILL NOT update it in relevant collections.  Copy and paste it into 
  * the Environment variable in the Postman UX.
 */
-
+debugger;
 //Setup the URL components
 var ghci = JSON.parse(pm.collectionVariables.get('gh_config'));
 console.log(ghci);
