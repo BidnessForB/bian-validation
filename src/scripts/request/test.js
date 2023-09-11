@@ -1,6 +1,6 @@
 /*
 NOTE: This code is stored in GitHub:
-https://github.com/BidnessForB/bian-validation/blob/main/scripts/request/test.js
+https://github.com/BidnessForB/bian-validation/blob/main/src/scripts/request/test.js
 
 */
 debugger;

@@ -1,6 +1,6 @@
 /*
 NOTE: This code is stored in GitHub:
-https://github.com/BidnessForB/bian-validation/blob/main/scripts/request/pre-request.js
+https://github.com/BidnessForB/bian-validation/blob/main/src/scripts/request/pre-request.js
 
 */
 
